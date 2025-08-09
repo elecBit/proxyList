@@ -27,3 +27,12 @@ DOMAIN-SUFFIX,warcraftlogs.com,🌀 𝑨𝒖𝒕𝒐𝒎𝒂𝒕𝒊𝒄
 
 # AI
 DOMAIN-SUFFIX,you.com,🌀 𝑨𝒖𝒕𝒐𝒎𝒂𝒕𝒊𝒄
+
+
+DOMAIN,gateway.icloud.com,PROXY
+# 推荐增强规则（加在分流规则后段）
+HOST-SUFFIX,ls.apple.com,PROXY
+HOST,apple.comscoreresearch.com,PROXY
+# 可选 UA 泛代理
+USER-AGENT,AppleNews*,PROXY
+USER-AGENT,News*,PROXY
