@@ -36,3 +36,11 @@ HOST,apple.comscoreresearch.com,PROXY
 # 可选 UA 泛代理
 USER-AGENT,AppleNews*,PROXY
 USER-AGENT,News*,PROXY
+
+#iCloud 代理
+DOMAIN-SUFFIX,mask-api.fe.apple-dns.net,🌀 𝑨𝒖𝒕𝒐𝒎𝒂𝒕𝒊𝒄
+DOMAIN-SUFFIX,mask-api.icloud.com,🌀 𝑨𝒖𝒕𝒐𝒎𝒂𝒕𝒊𝒄
+DOMAIN-SUFFIX,mask-t.apple-dns.net,🌀 𝑨𝒖𝒕𝒐𝒎𝒂𝒕𝒊𝒄
+DOMAIN-SUFFIX,mask.apple-dns.net,🌀 𝑨𝒖𝒕𝒐𝒎𝒂𝒕𝒊𝒄
+DOMAIN-SUFFIX,mask-h2.icloud.com,🌀 𝑨𝒖𝒕𝒐𝒎𝒂𝒕𝒊𝒄
+DOMAIN-SUFFIX,mask.icloud.com,🌀 𝑨𝒖𝒕𝒐𝒎𝒂𝒕𝒊𝒄
