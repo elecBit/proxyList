@@ -30,6 +30,14 @@ DOMAIN-SUFFIX,warcraftlogs.com,🌀 𝑨𝒖𝒕𝒐𝒎𝒂𝒕𝒊𝒄
 DOMAIN-SUFFIX,you.com,🌀 𝑨𝒖𝒕𝒐𝒎𝒂𝒕𝒊𝒄
 DOMAIN-KEYWORD,atlas,🌀 𝑨𝒖𝒕𝒐𝒎𝒂𝒕𝒊𝒄
 
+DOMAIN-SUFFIX,guzzoni.apple.com，,🌀 𝑨𝒖𝒕𝒐𝒎𝒂𝒕𝒊𝒄
+DOMAIN-SUFFIX,smoot.apple.com，,🌀 𝑨𝒖𝒕𝒐𝒎𝒂𝒕𝒊𝒄
+DOMAIN-SUFFIX,apple-relay.cloudflare.com，,🌀 𝑨𝒖𝒕𝒐𝒎𝒂𝒕𝒊𝒄
+DOMAIN-SUFFIX,apple-relay.fastly-edge.com，,🌀 𝑨𝒖𝒕𝒐𝒎𝒂𝒕𝒊𝒄
+DOMAIN-SUFFIX,cp4.cloudflare.com，,🌀 𝑨𝒖𝒕𝒐𝒎𝒂𝒕𝒊𝒄
+DOMAIN-SUFFIX,apple-relay.apple.com，,🌀 𝑨𝒖𝒕𝒐𝒎𝒂𝒕𝒊𝒄
+DOMAIN-SUFFIX,ls.apple.com,🌀 𝑨𝒖𝒕𝒐𝒎𝒂𝒕𝒊𝒄
+
 
 #iCloud 代理
 DOMAIN-SUFFIX,mask-api.fe.apple-dns.net,🌀 𝑨𝒖𝒕𝒐𝒎𝒂𝒕𝒊𝒄
