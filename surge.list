@@ -20,7 +20,26 @@ DOMAIN-SUFFIX,nepoapi.com,🌀 𝑨𝒖𝒕𝒐𝒎𝒂𝒕𝒊𝒄
 DOMAIN-SUFFIX,apple-relay.apple.com,PROXY
 DOMAIN-SUFFIX,apple-relay.cloudflare.com,PROXY
 DOMAIN-KEYWORD,apple-relay,PROXY
+# --- Apple Intelligence / Siri / 搜索（官方文档列出的必须直连的主机名，改为走 PROXY 以便换区）---
+# Siri & Dictation
+DOMAIN,guzzoni.apple.com,PROXY
+# Search services (Siri/Spotlight/Query/Safari/News/Music)
+DOMAIN-SUFFIX,smoot.apple.com,PROXY
+# Private Cloud Compute 中转（Cloudflare/Fastly）
+DOMAIN,apple-relay.cloudflare.com,PROXY
+DOMAIN,apple-relay.fastly-edge.com,PROXY
+DOMAIN,cp4.cloudflare.com,PROXY
+# Apple Intelligence 扩展
+DOMAIN,apple-relay.apple.com,PROXY
 
+# --- iCloud（中国大陆托管域直连，避免走代理）---
+DOMAIN-SUFFIX,icloud.com.cn,DIRECT
+DOMAIN-SUFFIX,apzones.com,DIRECT
+
+# --- iCloud 私密中继（避免与代理叠加；若需换区，将下方 DIRECT 改成 PROXY）---
+DOMAIN,mask.icloud.com,DIRECT
+DOMAIN,mask-h2.icloud.com,DIRECT
+DOMAIN,mask-api.icloud.com,DIRECT
 
 # 魔兽 
 DOMAIN-SUFFIX,warcraftlogs.com,🌀 𝑨𝒖𝒕𝒐𝒎𝒂𝒕𝒊𝒄
@@ -30,13 +49,7 @@ DOMAIN-SUFFIX,warcraftlogs.com,🌀 𝑨𝒖𝒕𝒐𝒎𝒂𝒕𝒊𝒄
 DOMAIN-SUFFIX,you.com,🌀 𝑨𝒖𝒕𝒐𝒎𝒂𝒕𝒊𝒄
 DOMAIN-KEYWORD,atlas,🌀 𝑨𝒖𝒕𝒐𝒎𝒂𝒕𝒊𝒄
 
-DOMAIN-SUFFIX,guzzoni.apple.com，,🌀 𝑨𝒖𝒕𝒐𝒎𝒂𝒕𝒊𝒄
-DOMAIN-SUFFIX,smoot.apple.com，,🌀 𝑨𝒖𝒕𝒐𝒎𝒂𝒕𝒊𝒄
-DOMAIN-SUFFIX,apple-relay.cloudflare.com，,🌀 𝑨𝒖𝒕𝒐𝒎𝒂𝒕𝒊𝒄
-DOMAIN-SUFFIX,apple-relay.fastly-edge.com，,🌀 𝑨𝒖𝒕𝒐𝒎𝒂𝒕𝒊𝒄
-DOMAIN-SUFFIX,cp4.cloudflare.com，,🌀 𝑨𝒖𝒕𝒐𝒎𝒂𝒕𝒊𝒄
-DOMAIN-SUFFIX,apple-relay.apple.com，,🌀 𝑨𝒖𝒕𝒐𝒎𝒂𝒕𝒊𝒄
-DOMAIN-SUFFIX,ls.apple.com,🌀 𝑨𝒖𝒕𝒐𝒎𝒂𝒕𝒊𝒄
+
 
 
 #iCloud 代理
