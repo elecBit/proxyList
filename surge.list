@@ -17,20 +17,20 @@ DOMAIN-SUFFIX,nepoapi.com,🌀 𝑨𝒖𝒕𝒐𝒎𝒂𝒕𝒊𝒄
 
 
 # Apple AI
-DOMAIN-SUFFIX,apple-relay.apple.com,PROXY
-DOMAIN-SUFFIX,apple-relay.cloudflare.com,PROXY
-DOMAIN-KEYWORD,apple-relay,PROXY
+DOMAIN-SUFFIX,apple-relay.apple.com,🌀 𝑨𝒖𝒕𝒐𝒎𝒂𝒕𝒊𝒄
+DOMAIN-SUFFIX,apple-relay.cloudflare.com,🌀 𝑨𝒖𝒕𝒐𝒎𝒂𝒕𝒊𝒄
+DOMAIN-KEYWORD,apple-relay,🌀 𝑨𝒖𝒕𝒐𝒎𝒂𝒕𝒊𝒄
 # --- Apple Intelligence / Siri / 搜索（官方文档列出的必须直连的主机名，改为走 PROXY 以便换区）---
 # Siri & Dictation
-DOMAIN,guzzoni.apple.com,PROXY
+DOMAIN,guzzoni.apple.com,🌀 𝑨𝒖𝒕𝒐𝒎𝒂𝒕𝒊𝒄
 # Search services (Siri/Spotlight/Query/Safari/News/Music)
-DOMAIN-SUFFIX,smoot.apple.com,PROXY
+DOMAIN-SUFFIX,smoot.apple.com,🌀 𝑨𝒖𝒕𝒐𝒎𝒂𝒕𝒊𝒄
 # Private Cloud Compute 中转（Cloudflare/Fastly）
-DOMAIN,apple-relay.cloudflare.com,PROXY
-DOMAIN,apple-relay.fastly-edge.com,PROXY
-DOMAIN,cp4.cloudflare.com,PROXY
+DOMAIN,apple-relay.cloudflare.com,🌀 𝑨𝒖𝒕𝒐𝒎𝒂𝒕𝒊𝒄
+DOMAIN,apple-relay.fastly-edge.com,🌀 𝑨𝒖𝒕𝒐𝒎𝒂𝒕𝒊𝒄
+DOMAIN,cp4.cloudflare.com,🌀 𝑨𝒖𝒕𝒐𝒎𝒂𝒕𝒊𝒄
 # Apple Intelligence 扩展
-DOMAIN,apple-relay.apple.com,PROXY
+DOMAIN,apple-relay.apple.com,🌀 𝑨𝒖𝒕𝒐𝒎𝒂𝒕𝒊𝒄
 
 # --- iCloud（中国大陆托管域直连，避免走代理）---
 DOMAIN-SUFFIX,icloud.com.cn,DIRECT
