@@ -31,6 +31,7 @@ DOMAIN,apple-relay.fastly-edge.com,🌀 𝑨𝒖𝒕𝒐𝒎𝒂𝒕𝒊𝒄
 DOMAIN,cp4.cloudflare.com,🌀 𝑨𝒖𝒕𝒐𝒎𝒂𝒕𝒊𝒄
 # Apple Intelligence 扩展
 DOMAIN,apple-relay.apple.com,🌀 𝑨𝒖𝒕𝒐𝒎𝒂𝒕𝒊𝒄
+DOMAIN,apps.mzstatic.com,🌀 𝑨𝒖𝒕𝒐𝒎𝒂𝒕𝒊𝒄
 
 # --- iCloud（中国大陆托管域直连，避免走代理）---
 DOMAIN-SUFFIX,icloud.com.cn,DIRECT
