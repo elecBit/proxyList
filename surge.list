@@ -71,3 +71,8 @@ DOMAIN-SUFFIX,mask-t.apple-dns.net,🌀 𝑨𝒖𝒕𝒐𝒎𝒂𝒕𝒊𝒄
 DOMAIN-SUFFIX,mask.apple-dns.net,🌀 𝑨𝒖𝒕𝒐𝒎𝒂𝒕𝒊𝒄
 DOMAIN-SUFFIX,mask-h2.icloud.com,🌀 𝑨𝒖𝒕𝒐𝒎𝒂𝒕𝒊𝒄
 DOMAIN-SUFFIX,mask.icloud.com,🌀 𝑨𝒖𝒕𝒐𝒎𝒂𝒕𝒊𝒄
+
+
+
+# 路由器 
+DOMAIN-SUFFIX,router.h3c.com,🌀 𝑨𝒖𝒕𝒐𝒎𝒂𝒕𝒊𝒄
