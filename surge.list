@@ -60,7 +60,7 @@ DOMAIN-SUFFIX,warcraftlogs.com,🌀 𝑨𝒖𝒕𝒐𝒎𝒂𝒕𝒊𝒄
 # AI
 DOMAIN-SUFFIX,you.com,🌀 𝑨𝒖𝒕𝒐𝒎𝒂𝒕𝒊𝒄
 DOMAIN-KEYWORD,atlas,🌀 𝑨𝒖𝒕𝒐𝒎𝒂𝒕𝒊𝒄
-
+DOMAIN-SUFFIX, sentry.io, REJECT
 
 
 
