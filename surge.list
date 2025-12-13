@@ -4,6 +4,13 @@ DOMAIN-SUFFIX,wikipedia.org,🌀 𝑨𝒖𝒕𝒐𝒎𝒂𝒕𝒊𝒄
 DOMAIN-SUFFIX,linux.do,🌀 𝑨𝒖𝒕𝒐𝒎𝒂𝒕𝒊𝒄
 DOMAIN-SUFFIX,cursor.com,🌀 𝑨𝒖𝒕𝒐𝒎𝒂𝒕𝒊𝒄
 
+
+#ChatGPT
+DOMAIN-SUFFIX, chatgpt.com, ✨ 𝑪𝒉𝒂𝒕𝑮𝑷𝑻
+DOMAIN-SUFFIX, openai.com, ✨ 𝑪𝒉𝒂𝒕𝑮𝑷𝑻
+DOMAIN-SUFFIX, oaistatic.com, ✨ 𝑪𝒉𝒂𝒕𝑮𝑷𝑻
+DOMAIN-KEYWORD, openai, ✨ 𝑪𝒉𝒂𝒕𝑮𝑷𝑻
+DOMAIN-KEYWORD, chatgpt, ✨ 𝑪𝒉𝒂𝒕𝑮𝑷𝑻
 # Wechat
 DOMAIN-SUFFIX,qlogo.cn,DIRECT
 DOMAIN-SUFFIX,qpic.cn,DIRECT
