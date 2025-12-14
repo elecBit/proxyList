@@ -15,6 +15,61 @@ DOMAIN-KEYWORD, chatgpt, ✨ 𝑪𝒉𝒂𝒕𝑮𝑷𝑻
 DOMAIN-SUFFIX,qlogo.cn,DIRECT
 DOMAIN-SUFFIX,qpic.cn,DIRECT
 
+
+
+# ========== ChatGPT / OpenAI ==========
+DOMAIN-SUFFIX,openai.com,✨ 𝑪𝒉𝒂𝒕𝑮𝑷𝑻
+DOMAIN,auth0.openai.com,✨ 𝑪𝒉𝒂𝒕𝑮𝑷𝑻
+DOMAIN-SUFFIX,auth.openai.com,✨ 𝑪𝒉𝒂𝒕𝑮𝑷𝑻
+DOMAIN,setup.auth.openai.com,✨ 𝑪𝒉𝒂𝒕𝑮𝑷𝑻
+DOMAIN,chat.openai.com,✨ 𝑪𝒉𝒂𝒕𝑮𝑷𝑻
+DOMAIN,tcr9i.chat.openai.com,✨ 𝑪𝒉𝒂𝒕𝑮𝑷𝑻
+DOMAIN,ios.chat.openai.com,✨ 𝑪𝒉𝒂𝒕𝑮𝑷𝑻
+DOMAIN,android.chat.openai.com,✨ 𝑪𝒉𝒂𝒕𝑮𝑷𝑻
+DOMAIN,desktop.chat.openai.com,✨ 𝑪𝒉𝒂𝒕𝑮𝑷𝑻
+DOMAIN-SUFFIX,chatgpt.com,✨ 𝑪𝒉𝒂𝒕𝑮𝑷𝑻
+DOMAIN-SUFFIX,oaiusercontent.com,✨ 𝑪𝒉𝒂𝒕𝑮𝑷𝑻
+DOMAIN-SUFFIX,oaistatic.com,✨ 𝑪𝒉𝒂𝒕𝑮𝑷𝑻
+
+# ========== Statsig / Feature Gates ==========
+DOMAIN-SUFFIX,statsig.com,✨ 𝑪𝒉𝒂𝒕𝑮𝑷𝑻
+DOMAIN-SUFFIX,statsigapi.net,✨ 𝑪𝒉𝒂𝒕𝑮𝑷𝑻
+DOMAIN,events.statsigapi.net,✨ 𝑪𝒉𝒂𝒕𝑮𝑷𝑻
+DOMAIN-SUFFIX,featuregates.org,✨ 𝑪𝒉𝒂𝒕𝑮𝑷𝑻
+DOMAIN,prodregistryv2.org,✨ 𝑪𝒉𝒂𝒕𝑮𝑷𝑻
+DOMAIN,featureassets.org,✨ 𝑪𝒉𝒂𝒕𝑮𝑷𝑻
+
+# ========== Intercom ==========
+DOMAIN-SUFFIX,intercomcdn.com,✨ 𝑪𝒉𝒂𝒕𝑮𝑷𝑻
+DOMAIN,js.intercomcdn.com,✨ 𝑪𝒉𝒂𝒕𝑮𝑷𝑻
+DOMAIN-SUFFIX,intercom.io,✨ 𝑪𝒉𝒂𝒕𝑮𝑷𝑻
+
+# ========== Stripe ==========
+DOMAIN,js.stripe.com,✨ 𝑪𝒉𝒂𝒕𝑮𝑷𝑻
+
+# ========== Cloudflare / Telemetry ==========
+DOMAIN,challenges.cloudflare.com,✨ 𝑪𝒉𝒂𝒕𝑮𝑷𝑻
+DOMAIN,rum.browser-intake-datadoghq.com,✨ 𝑪𝒉𝒂𝒕𝑮𝑷𝑻
+DOMAIN,o33249.ingest.sentry.io,✨ 𝑪𝒉𝒂𝒕𝑮𝑷𝑻
+DOMAIN,o207216.ingest.sentry.io,✨ 𝑪𝒉𝒂𝒕𝑮𝑷𝑻
+
+# ========== WorkOS / LaunchDarkly ==========
+DOMAIN,setup.workos.com,✨ 𝑪𝒉𝒂𝒕𝑮𝑷𝑻
+DOMAIN,forwarder.workos.com,✨ 𝑪𝒉𝒂𝒕𝑮𝑷𝑻
+DOMAIN,cdn.workos.com,✨ 𝑪𝒉𝒂𝒕𝑮𝑷𝑻
+DOMAIN,workos.imgix.net,✨ 𝑪𝒉𝒂𝒕𝑮𝑷𝑻
+DOMAIN,images.workoscdn.com,✨ 𝑪𝒉𝒂𝒕𝑮𝑷𝑻
+DOMAIN-SUFFIX,launchdarkly.com,✨ 𝑪𝒉𝒂𝒕𝑮𝑷𝑻
+DOMAIN,events.launchdarkly.com,✨ 𝑪𝒉𝒂𝒕𝑮𝑷𝑻
+DOMAIN,clientstream.launchdarkly.com,✨ 𝑪𝒉𝒂𝒕𝑮𝑷𝑻
+DOMAIN,app.launchdarkly.com,✨ 𝑪𝒉𝒂𝒕𝑮𝑷𝑻
+
+# ========== SendGrid ==========
+DOMAIN-SUFFIX,ct.sendgrid.net,✨ 𝑪𝒉𝒂𝒕𝑮𝑷𝑻
+
+
+
+
 # notion
 DOMAIN-SUFFIX,notion.com,🌀 𝑨𝒖𝒕𝒐𝒎𝒂𝒕𝒊𝒄
 DOMAIN-SUFFIX,notion.so,🌀 𝑨𝒖𝒕𝒐𝒎𝒂𝒕𝒊𝒄
