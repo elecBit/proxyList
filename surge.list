@@ -1,24 +1,22 @@
-DOMAIN-SUFFIX,www.v2ex.com,🌀 𝑨𝒖𝒕𝒐𝒎𝒂𝒕𝒊𝒄 // Added for: https://www.v2ex.com/
+# Added for: https://www.v2ex.com/
+DOMAIN-SUFFIX,www.v2ex.com,🌀 𝑨𝒖𝒕𝒐𝒎𝒂𝒕𝒊𝒄
 DOMAIN-SUFFIX,v2ex.com,🌀 𝑨𝒖𝒕𝒐𝒎𝒂𝒕𝒊𝒄
 DOMAIN-SUFFIX,wikipedia.org,🌀 𝑨𝒖𝒕𝒐𝒎𝒂𝒕𝒊𝒄
 DOMAIN-SUFFIX,linux.do,🌀 𝑨𝒖𝒕𝒐𝒎𝒂𝒕𝒊𝒄
 DOMAIN-SUFFIX,cursor.com,🌀 𝑨𝒖𝒕𝒐𝒎𝒂𝒕𝒊𝒄
 
-
 #ChatGPT
-DOMAIN-SUFFIX, chatgpt.com, ✨ 𝑪𝒉𝒂𝒕𝑮𝑷𝑻
-DOMAIN-SUFFIX, openai.com, ✨ 𝑪𝒉𝒂𝒕𝑮𝑷𝑻
-DOMAIN-SUFFIX, oaistatic.com, ✨ 𝑪𝒉𝒂𝒕𝑮𝑷𝑻
-DOMAIN-KEYWORD, openai, ✨ 𝑪𝒉𝒂𝒕𝑮𝑷𝑻
-DOMAIN-KEYWORD, chatgpt, ✨ 𝑪𝒉𝒂𝒕𝑮𝑷𝑻
+DOMAIN-SUFFIX,chatgpt.com,✨ 𝑪𝒉𝒂𝒕𝑮𝑷𝑻
+DOMAIN-SUFFIX,openai.com,✨ 𝑪𝒉𝒂𝒕𝑮𝑷𝑻
+DOMAIN-SUFFIX,oaistatic.com,✨ 𝑪𝒉𝒂𝒕𝑮𝑷𝑻
+DOMAIN-KEYWORD,openai,✨ 𝑪𝒉𝒂𝒕𝑮𝑷𝑻
+DOMAIN-KEYWORD,chatgpt,✨ 𝑪𝒉𝒂𝒕𝑮𝑷𝑻
+
 # Wechat
 DOMAIN-SUFFIX,qlogo.cn,DIRECT
 DOMAIN-SUFFIX,qpic.cn,DIRECT
 
-
-
 # ========== ChatGPT / OpenAI ==========
-DOMAIN-SUFFIX,openai.com,✨ 𝑪𝒉𝒂𝒕𝑮𝑷𝑻
 DOMAIN,auth0.openai.com,✨ 𝑪𝒉𝒂𝒕𝑮𝑷𝑻
 DOMAIN-SUFFIX,auth.openai.com,✨ 𝑪𝒉𝒂𝒕𝑮𝑷𝑻
 DOMAIN,setup.auth.openai.com,✨ 𝑪𝒉𝒂𝒕𝑮𝑷𝑻
@@ -27,9 +25,7 @@ DOMAIN,tcr9i.chat.openai.com,✨ 𝑪𝒉𝒂𝒕𝑮𝑷𝑻
 DOMAIN,ios.chat.openai.com,✨ 𝑪𝒉𝒂𝒕𝑮𝑷𝑻
 DOMAIN,android.chat.openai.com,✨ 𝑪𝒉𝒂𝒕𝑮𝑷𝑻
 DOMAIN,desktop.chat.openai.com,✨ 𝑪𝒉𝒂𝒕𝑮𝑷𝑻
-DOMAIN-SUFFIX,chatgpt.com,✨ 𝑪𝒉𝒂𝒕𝑮𝑷𝑻
 DOMAIN-SUFFIX,oaiusercontent.com,✨ 𝑪𝒉𝒂𝒕𝑮𝑷𝑻
-DOMAIN-SUFFIX,oaistatic.com,✨ 𝑪𝒉𝒂𝒕𝑮𝑷𝑻
 
 # ========== Statsig / Feature Gates ==========
 DOMAIN-SUFFIX,statsig.com,✨ 𝑪𝒉𝒂𝒕𝑮𝑷𝑻
@@ -67,17 +63,9 @@ DOMAIN,app.launchdarkly.com,✨ 𝑪𝒉𝒂𝒕𝑮𝑷𝑻
 # ========== SendGrid ==========
 DOMAIN-SUFFIX,ct.sendgrid.net,✨ 𝑪𝒉𝒂𝒕𝑮𝑷𝑻
 
-
-
-
-# notion
-DOMAIN-SUFFIX,notion.com,🌀 𝑨𝒖𝒕𝒐𝒎𝒂𝒕𝒊𝒄
-DOMAIN-SUFFIX,notion.so,🌀 𝑨𝒖𝒕𝒐𝒎𝒂𝒕𝒊𝒄
-
 # other
 DOMAIN-SUFFIX,nepoapi.com,🌀 𝑨𝒖𝒕𝒐𝒎𝒂𝒕𝒊𝒄
 DOMAIN-SUFFIX,okx.com,🌀 𝑨𝒖𝒕𝒐𝒎𝒂𝒕𝒊𝒄
-
 
 # Apple AI
 DOMAIN-SUFFIX,apple-relay.apple.com,🌀 𝑨𝒖𝒕𝒐𝒎𝒂𝒕𝒊𝒄
@@ -93,18 +81,8 @@ DOMAIN,apple-relay.cloudflare.com,🌀 𝑨𝒖𝒕𝒐𝒎𝒂𝒕𝒊𝒄
 DOMAIN,apple-relay.fastly-edge.com,🌀 𝑨𝒖𝒕𝒐𝒎𝒂𝒕𝒊𝒄
 DOMAIN,cp4.cloudflare.com,🌀 𝑨𝒖𝒕𝒐𝒎𝒂𝒕𝒊𝒄
 # Apple Intelligence 扩展
-DOMAIN,apple-relay.apple.com,🌀 𝑨𝒖𝒕𝒐𝒎𝒂𝒕𝒊𝒄
 DOMAIN,apps.mzstatic.com,🌀 𝑨𝒖𝒕𝒐𝒎𝒂𝒕𝒊𝒄
-
-DOMAIN,guzzoni.apple.com,🌀 𝑨𝒖𝒕𝒐𝒎𝒂𝒕𝒊𝒄
-DOMAIN,*.smoot.apple.com,🌀 𝑨𝒖𝒕𝒐𝒎𝒂𝒕𝒊𝒄
-DOMAIN,apple-relay.cloudflare.com,🌀 𝑨𝒖𝒕𝒐𝒎𝒂𝒕𝒊𝒄
-DOMAIN,apple-relay.fastly-edge.com,🌀 𝑨𝒖𝒕𝒐𝒎𝒂𝒕𝒊𝒄
-DOMAIN,cp4.cloudflare.com,🌀 𝑨𝒖𝒕𝒐𝒎𝒂𝒕𝒊𝒄
-DOMAIN,apple-relay.apple.com,🌀 𝑨𝒖𝒕𝒐𝒎𝒂𝒕𝒊𝒄
 DOMAIN,gspe1-ssl.ls.apple.com,🌀 𝑨𝒖𝒕𝒐𝒎𝒂𝒕𝒊𝒄
-
-
 
 # --- iCloud（中国大陆托管域直连，避免走代理）---
 DOMAIN-SUFFIX,icloud.com.cn,DIRECT
@@ -115,17 +93,6 @@ DOMAIN,mask.icloud.com,DIRECT
 DOMAIN,mask-h2.icloud.com,DIRECT
 DOMAIN,mask-api.icloud.com,DIRECT
 
-# 魔兽 
-DOMAIN-SUFFIX,warcraftlogs.com,🌀 𝑨𝒖𝒕𝒐𝒎𝒂𝒕𝒊𝒄
-
-
-# AI
-DOMAIN-SUFFIX,you.com,🌀 𝑨𝒖𝒕𝒐𝒎𝒂𝒕𝒊𝒄
-DOMAIN-KEYWORD,atlas,🌀 𝑨𝒖𝒕𝒐𝒎𝒂𝒕𝒊𝒄
-# DOMAIN-SUFFIX, sentry.io, REJECT
-
-
-
 #iCloud 代理
 DOMAIN-SUFFIX,mask-api.fe.apple-dns.net,🌀 𝑨𝒖𝒕𝒐𝒎𝒂𝒕𝒊𝒄
 DOMAIN-SUFFIX,mask-api.icloud.com,🌀 𝑨𝒖𝒕𝒐𝒎𝒂𝒕𝒊𝒄
@@ -134,7 +101,5 @@ DOMAIN-SUFFIX,mask.apple-dns.net,🌀 𝑨𝒖𝒕𝒐𝒎𝒂𝒕𝒊𝒄
 DOMAIN-SUFFIX,mask-h2.icloud.com,🌀 𝑨𝒖𝒕𝒐𝒎𝒂𝒕𝒊𝒄
 DOMAIN-SUFFIX,mask.icloud.com,🌀 𝑨𝒖𝒕𝒐𝒎𝒂𝒕𝒊𝒄
 
-
-
-# 路由器 
+# 路由器
 DOMAIN-SUFFIX,router.h3c.com,DIRECT
