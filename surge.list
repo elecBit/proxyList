@@ -63,6 +63,10 @@ DOMAIN,app.launchdarkly.com,✨ 𝑪𝒉𝒂𝒕𝑮𝑷𝑻
 # ========== SendGrid ==========
 DOMAIN-SUFFIX,ct.sendgrid.net,✨ 𝑪𝒉𝒂𝒕𝑮𝑷𝑻
 
+#  ========== 强制让 ChatGPT 的统计请求超时，防止死循环 ==========
+DOMAIN-SUFFIX, google-analytics.com, REJECT-DROP
+DOMAIN-SUFFIX, datadoghq.com, REJECT-DROP
+
 # other
 DOMAIN-SUFFIX,nepoapi.com,🌀 𝑨𝒖𝒕𝒐𝒎𝒂𝒕𝒊𝒄
 DOMAIN-SUFFIX,okx.com,🌀 𝑨𝒖𝒕𝒐𝒎𝒂𝒕𝒊𝒄
