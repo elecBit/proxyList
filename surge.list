@@ -26,6 +26,7 @@ DOMAIN,ios.chat.openai.com,✨ 𝑪𝒉𝒂𝒕𝑮𝑷𝑻
 DOMAIN,android.chat.openai.com,✨ 𝑪𝒉𝒂𝒕𝑮𝑷𝑻
 DOMAIN,desktop.chat.openai.com,✨ 𝑪𝒉𝒂𝒕𝑮𝑷𝑻
 DOMAIN-SUFFIX,oaiusercontent.com,✨ 𝑪𝒉𝒂𝒕𝑮𝑷𝑻
+DOMAIN-SUFFIX,files.oaiusercontent.com ,✨ 𝑪𝒉𝒂𝒕𝑮𝑷𝑻
 
 # ========== Statsig / Feature Gates ==========
 DOMAIN-SUFFIX,statsig.com,✨ 𝑪𝒉𝒂𝒕𝑮𝑷𝑻
